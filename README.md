@@ -17,11 +17,15 @@
 ![Netbeans](https://img.shields.io/badge/-Netbeans-05122A?style=flat&logo=apachenetbeanside&logoColor=blue)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
+
 ## Social
 
 <a href="https://www.instagram.com/vinicius_setembrino" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-vinicius_ setembrino-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-vinicius__setembrino-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.facebook.com/vinicius.setembrinodaluz" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ViniciusSetembrino-05122A?style=flat&logo=facebook" alt="facebook"/>
+</a>
+<a href="discordapp.com/users/526935988426113024" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-ViniciusSetembrino-05122A?style=flat&logo=discord" alt="facebook"/>
 </a>
