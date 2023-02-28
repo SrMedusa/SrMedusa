@@ -20,8 +20,8 @@
 ## Social
 
 <a href="https://www.instagram.com/vinicius_setembrino" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-vinicius_setembrino-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-vinicius_ setembrino-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.facebook.com/vinicius.setembrinodaluz" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ViniciusSetembrino-05122A?style=flat&logo=instagram" alt="facebook"/>
+ <img align="center" src="https://img.shields.io/badge/-ViniciusSetembrino-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
