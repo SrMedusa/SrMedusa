@@ -22,11 +22,7 @@
 
 <a href="https://www.instagram.com/vinicius_setembrino" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-vinicius__setembrino-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.facebook.com/vinicius.setembrinodaluz" target="_blank">
+</a><a href="https://www.facebook.com/vinicius.setembrinodaluz" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ViniciusSetembrino-05122A?style=flat&logo=facebook" alt="facebook"/>
-</a>
- <img align="center" src="https://img.shields.io/badge/-Sr.Medusa_8564-05122A?style=flat&logo=discord" alt="facebook"/>
-</a>
-<a href="https://www.linkedin.com/in/vinicius-setembrino-da-luz-1299a9217/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Vinicius S. Luz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a><img align="center" src="https://img.shields.io/badge/-Sr.Medusa_8564-05122A?style=flat&logo=discord" alt="facebook"/>
+</a><a href="https://www.linkedin.com/in/vinicius-setembrino-da-luz-1299a9217/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Vinicius S. Luz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
