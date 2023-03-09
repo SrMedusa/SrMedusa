@@ -1,5 +1,5 @@
 # Vinicius Setembrino 👽
-* I study at **Instituto Federal do Panará** 📚
+* I study at **Instituto Federal do Paraná** 📚
 
 * Studying Python ✨
 
