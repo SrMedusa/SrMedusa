@@ -1,7 +1,7 @@
 # Vinicius Setembrino 👽
 * I study at **Instituto Federal do Paraná** 📚
 
-* Studying Python ✨
+* Studying Python, Html and Css ✨
 
 * I got my inspiration from rpg games to program ⚔
 
